@@ -1,6 +1,6 @@
-Movie recommendation system made using JupyerLab, Python, and pandas.
+movie recommendation system made using jupyterlab, python, and pandas
 
-Recommends movies based on user movie title input, alongside optional rating/genre fields.
+recommends movies based on user movie title input, alongisde optional rating/genre fields
 
-Inspiration from Dataquest.
+inspiration (https://www.youtube.com/watch?v=eyEabQRBMQA&t=600s&ab_channel=Dataquest)
 
